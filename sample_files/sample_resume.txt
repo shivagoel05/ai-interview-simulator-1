@@ -1,0 +1,37 @@
+JOHN SMITH
+Senior Software Engineer
+Email: john.smith@email.com | Phone: (555) 123-4567
+
+PROFESSIONAL EXPERIENCE
+
+Senior Software Engineer | TechCorp Inc. | 2021-Present
+- Led development of microservices architecture serving 2M+ daily users
+- Reduced system latency by 45% through performance optimization
+- Mentored 8 junior developers and conducted code reviews
+- Implemented CI/CD pipelines reducing deployment time from 2 hours to 15 minutes
+
+Software Engineer | StartupXYZ | 2019-2021
+- Built scalable REST APIs using Python, Django, and PostgreSQL
+- Developed real-time notification system handling 50K+ events per second
+- Collaborated with product team to define technical requirements
+- Improved test coverage from 60% to 95% across all microservices
+
+Junior Developer | WebSolutions | 2018-2019
+- Created responsive web applications using React and Node.js
+- Integrated third-party APIs for payment processing and analytics
+- Participated in Agile development processes and daily standups
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, TypeScript, Java
+Frameworks: Django, React, Node.js, Express
+Databases: PostgreSQL, MongoDB, Redis
+Cloud: AWS (EC2, S3, Lambda), Docker, Kubernetes
+Tools: Git, Jenkins, JIRA, Slack
+
+EDUCATION
+Bachelor of Science in Computer Science
+State University | 2014-2018 | GPA: 3.7/4.0
+
+CERTIFICATIONS
+- AWS Certified Solutions Architect
+- Certified Scrum Master (CSM)
